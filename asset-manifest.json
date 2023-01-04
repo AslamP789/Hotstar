@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hotstar/static/css/main.4c16b1e0.css",
+    "main.js": "/Hotstar/static/js/main.90771a7a.js",
+    "static/js/787.9896feea.chunk.js": "/Hotstar/static/js/787.9896feea.chunk.js",
+    "index.html": "/Hotstar/index.html",
+    "main.4c16b1e0.css.map": "/Hotstar/static/css/main.4c16b1e0.css.map",
+    "main.90771a7a.js.map": "/Hotstar/static/js/main.90771a7a.js.map",
+    "787.9896feea.chunk.js.map": "/Hotstar/static/js/787.9896feea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c16b1e0.css",
+    "static/js/main.90771a7a.js"
+  ]
+}
