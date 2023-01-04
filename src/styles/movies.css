@@ -1,0 +1,19 @@
+
+.movies{
+    text-align: center;
+    background-color: rgb(14,14,26);
+}
+.movies h1{
+  color: white;
+  margin: 0px;
+}
+.favs_link{
+    background-color: rgb(4, 4, 34);
+    color: white;
+    width: 75%;
+    margin: 0px auto;
+}
+.favs_link button{
+    border-radius: 5px;
+    
+}

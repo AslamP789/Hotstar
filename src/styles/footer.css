@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgb(2,2,23);
+    padding: 20px 0px;
+    text-align: center;
+}
+.footer ul{
+    padding: 0px;
+}
+.desc{
+    text-align: center;
+}
+.desc p{
+    color: beige;
+}

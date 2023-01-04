@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(2, 2, 23);
+    padding: 10px 0px;
+}
+.nav_links li{
+    display: inline-block;
+    margin: 0px 15px;
+}
+.nav_links a{
+ color: white;
+ text-decoration: none;
+ font-family:'Times New Roman', Times, serif;
+ font-weight: 20px;
+
+}
+.logo h1{
+    font-size: 25px;
+}

@@ -1,0 +1,60 @@
+{
+  "favorites": [
+    {
+      "title": "The Boys",
+      "genere": "Action",
+      "language": "English",
+      "rating": 4.2,
+      "id": 1
+    },
+    {
+      "title": "Dark",
+      "genere": "Action",
+      "language": "Hindi",
+      "rating": 4.5,
+      "id": 2
+    },
+    {
+      "title": "The Rose",
+      "genere": "Action",
+      "language": "English",
+      "rating": 3.5,
+      "id": 3
+    },
+    {
+      "title": "Malgudi days",
+      "genere": "Action",
+      "language": "Malayalam",
+      "rating": 3.2,
+      "id": 4
+    },
+    {
+      "title": "Loki",
+      "genere": "Action",
+      "language": "English",
+      "rating": 4.5,
+      "id": 5
+    },
+    {
+      "title": "charlie",
+      "genere": "drama",
+      "language": "Malayalam",
+      "rating": "4.5",
+      "id": 6
+    },
+    {
+      "title": "ncb",
+      "genere": "n x",
+      "language": "bxv",
+      "rating": "js",
+      "id": 7
+    },
+    {
+      "title": "jgj",
+      "genere": "sjbgjsj",
+      "language": "sjug",
+      "rating": "ug",
+      "id": 8
+    }
+  ]
+}
